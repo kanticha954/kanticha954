@@ -4,8 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-*   🌍  I'm based in Thailand
-*   🧠  I'm learning Dart, Flutter and SolidJs### Skills 
+*   🌍  I'm based in Bangkok, Thailand
+*   🧠  I'm learning Dart, and SolidJs
+*   ⚡  I'm interested in Machine learning, Artificial Intelligence and Web Development.
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
