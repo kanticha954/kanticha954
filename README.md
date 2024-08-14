@@ -10,8 +10,8 @@ Computer Science Student
 ------------------------
 
 *   🌍  I'm based in Bangkok, Thailand.
-*   🧠  I'm learning Dart, and SolidJs.
-*   ⚡  I'm interested in Machine learning, Artificial Intelligence and Web Development.
+*   🧠  I'm learning Cypress, and Robot framework.
+*   ⚡  I'm interested in Software Development and Quality Assurance field.
   
 Programming Skills
 ------------------------
